@@ -7,7 +7,7 @@ class ItemWidget extends StatelessWidget {
   final Function removeClicked;
 
   const ItemWidget({Key key, this.item, this.removeClicked}) : super(key: key);
-
+//codigo todo teste
   @override
   Widget build(BuildContext context) {
     return Observer(
